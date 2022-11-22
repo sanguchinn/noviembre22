@@ -48,7 +48,7 @@
     justify-content:center;
     align-items:center;
     flex-direction:column;
-    background: url(/media/contactobg.jpg);
+    background: url(./media/contactobg.jpg);
     background-size: cover;
 }
 .contactForm .inputBox input,
